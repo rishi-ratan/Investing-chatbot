@@ -10,10 +10,10 @@ export type ExampleModel = {
 const EXAMPLES: ExampleModel[] = [
     {
         text: "What are the most advanced neural networks in today's world?",
-        value: "What is NVIDIA's accelerated computing platform?"
+        value: "What are the most advanced neural networks in today's world?"
     },
-    { text: "What are the 5 takeaways from GTC?", value: "What is special about Generative AI?" },
-    { text: "What is the new computer?", value: "What are the three major customer categories?" }
+    { text: "What are the 5 takeaways from GTC?", value: "What are the 5 takeaways from GTC?" },
+    { text: "What is the new computer?", value: "What is the new computer?" }
 ];
 
 interface Props {
